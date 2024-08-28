@@ -8,20 +8,20 @@ picture: assets/images/1590875937009.jpg
 # false to light theme, auto to switch with system.
 dark-theme: auto
 resume: false
-resume-external: true
+resume-external: false
 resume-url: "https://google.com/?q=my+resume"
 url: "https://panzerfly.github.io"
 knowledge-url: "https://panzerfly.gitbook.io/knowledge/"
 permalink: "/:title/"
-disqus:
-  shortname: cosminl
-  categories:
-    - blog
-    - project
+#disqus:
+#  shortname: cosminl
+#  categories:
+#    - blog
+#    - project
 # youtube: madecanggih
 # instagram: madecanggih
 # twitter: madecanggih
-github: madeindra
+#github: madeindra
 email: cosmin@pm.me
 linkedin: cosmin
 # adplist: made-indra
@@ -40,9 +40,9 @@ pagination:
   title: ":title"
   per_page: 5
   permalink: "/:num/"
-projects: true
-about: true
-blog: true
+projects: false
+about: false
+blog: false
 knowledge: false
 read-time: true
 show-tags: true
