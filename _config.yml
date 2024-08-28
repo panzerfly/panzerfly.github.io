@@ -2,7 +2,8 @@ title: Cosmin Lupu
 bio: Network Engineer
 description: Shower Thought
 external-image: false
-picture: assets/images/profile.webp
+#picture: assets/images/profile.webp
+picture: assets/images/1590875937009.jpg
 # your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: auto
