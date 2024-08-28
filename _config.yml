@@ -1,0 +1,79 @@
+title: Made Indra
+bio: Software Engineer
+description: Shower Thought
+external-image: false
+picture: assets/images/profile.webp
+# your site color theme, true for dark theme,
+# false to light theme, auto to switch with system.
+dark-theme: auto
+resume: false
+resume-external: true
+resume-url: "https://google.com/?q=my+resume"
+url: "https://madeindra.github.io"
+knowledge-url: "https://madeindra.gitbook.io/knowledge/"
+permalink: "/:title/"
+disqus:
+  shortname: madecanggih
+  categories:
+    - blog
+    - project
+# youtube: madecanggih
+# instagram: madecanggih
+# twitter: madecanggih
+github: madeindra
+email: madeindra@pm.me
+linkedin: mdeindra
+# adplist: made-indra
+authors:
+  madeindra:
+    name: Made Indra
+    bio: Software Engineer
+    external-image: false
+    picture: assets/images/profile.webp
+    # twitter: mdeindra
+width: normal
+pagination:
+  enabled: false
+  sort_reverse: true
+  title: ":title"
+  per_page: 5
+  permalink: "/:num/"
+projects: true
+about: true
+blog: true
+knowledge: false
+read-time: true
+show-tags: true
+related: true
+post-advance-links:
+  - blog
+show-author: true
+animation: true
+defaults:
+  - scope:
+      path: ""
+      layout: post
+    values:
+      hidden: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+  - jekyll-paginate-v2
+jekyll-mentions:
+  base_url: "https://github.com"
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
+exclude:
+  - travis.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - FAQ.md
+  - node_modules
+  - vendor
