@@ -29,7 +29,8 @@ authors:
     name: Cosmin LUPU
     bio: Network Engineer
     external-image: false
-    picture: assets/images/profile.webp
+    #picture: assets/images/profile.webp
+    picture: assets/images/1590875937009.jpg
     # twitter: mdeindra
 width: normal
 pagination:
