@@ -1,5 +1,5 @@
-title: Made Indra
-bio: Software Engineer
+title: Cosmin Lupu
+bio: Network Engineer
 description: Shower Thought
 external-image: false
 picture: assets/images/profile.webp
@@ -9,11 +9,11 @@ dark-theme: auto
 resume: false
 resume-external: true
 resume-url: "https://google.com/?q=my+resume"
-url: "https://madeindra.github.io"
-knowledge-url: "https://madeindra.gitbook.io/knowledge/"
+url: "https://panzerfly.github.io"
+knowledge-url: "https://panzerfly.gitbook.io/knowledge/"
 permalink: "/:title/"
 disqus:
-  shortname: madecanggih
+  shortname: cosminl
   categories:
     - blog
     - project
@@ -21,13 +21,13 @@ disqus:
 # instagram: madecanggih
 # twitter: madecanggih
 github: madeindra
-email: madeindra@pm.me
-linkedin: mdeindra
+email: cosmin@pm.me
+linkedin: cosmin
 # adplist: made-indra
 authors:
   madeindra:
-    name: Made Indra
-    bio: Software Engineer
+    name: Cosmin LUPU
+    bio: Network Engineer
     external-image: false
     picture: assets/images/profile.webp
     # twitter: mdeindra
